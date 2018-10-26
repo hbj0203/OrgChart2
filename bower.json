@@ -1,9 +1,9 @@
 {
   "name": "orgchart2",
   "version": "2.1.3",
-  "homepage": "https://github.com/dabeng/OrgChart",
+  "homepage": "https://github.com/hbj0203/OrgChart",
   "authors": [
-    "dabeng <dabeng413@gmail.com>"
+    "dabeng <hbj660258@gmail.com>"
   ],
   "description": "Simple and direct organization chart(tree-like hierarchy) plugin based on pure DOM and jQuery.",
   "main": [
